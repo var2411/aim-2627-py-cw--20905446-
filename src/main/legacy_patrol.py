@@ -1,4 +1,4 @@
-# aim-py-cw
+# aim-py-cw-known-known
 # -*- coding: utf-8 -*-
 """旧版巡逻统计模块（2526 赛季遗留）—— Q7：昨天还能跑。"""
 
